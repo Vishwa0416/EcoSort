@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # ecosort
 
 A new Flutter project.
@@ -15,7 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+
 # EcoSort 🌱  
 EcoSort is a mobile app designed to help users manage their waste more sustainably through intelligent waste sorting and recycling guidance. The app uses AI-based image recognition, personalized tips, and gamification to make waste management engaging and effective.
 
